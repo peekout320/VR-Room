@@ -19,12 +19,6 @@ public class AnalogClock : MonoBehaviour
     private float secondAngle = 6;
 
 
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
     // Update is called once per frame
     void Update()
     {
